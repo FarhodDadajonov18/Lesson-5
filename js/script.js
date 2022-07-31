@@ -10,7 +10,7 @@ workPlace = prompt ("Foydalanuvchining ish joyi").trim(),
 profession =prompt ("Foydalanuvchining kasbi").trim(),
 hobby =prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
 car = prompt("Foydalanuvchining  moshinasi").trim(),
-text = alert ("Malumotiz uchun rahmat");
+text = alert ("Baribir yozib tashlaganiz uchun rahmat");
 
 
 
