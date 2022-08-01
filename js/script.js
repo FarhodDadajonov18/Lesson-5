@@ -1,6 +1,7 @@
 
-var info = alert("Iltimos har xil narsalarni yozib tashlamang");
-    firstName = prompt("Ismingizni kiriting...").trim(),
+alert("Iltimos har xil narsalarni yozib tashlamang");
+
+var firstName = prompt("Ismingizni kiriting...").trim(),
     lastName = prompt ("Familyangizni kiriting").trim(),
     birthDate = prompt ("Tug'ilgan kuningizni kiriting").trim(),
     email = prompt (" Foydalanuvchining email pochtasi").trim(),
