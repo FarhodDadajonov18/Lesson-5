@@ -10,7 +10,7 @@ workPlace = prompt ("Foydalanuvchining ish joyi").trim(),
 profession =prompt ("Foydalanuvchining kasbi").trim(),
 hobby =prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
 car = prompt("Foydalanuvchining  moshinasi").trim(),
-text = alert ("Baribir yozib tashlaganiz uchun rahmat");
+text = alert ("Har xil narsalarni yozib tashlaganiz uchun malumotiz kiritilmadi");
 
 
 
@@ -27,7 +27,7 @@ paragraph.innerHTML=`Your name is : ${firstName} <br>
                        Your workplace : ${workPlace}<br>
                        Your profession : ${profession}<br>
                        Your hobby : ${hobby}<br>
-                       Your avtomobile : ${car}
+                       Your avtomobile : ${car}<br>
                        `;
 
 document.body.style.backgroundColor="black";
