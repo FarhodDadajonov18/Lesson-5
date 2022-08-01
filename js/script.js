@@ -18,17 +18,17 @@ var info = alert("Iltimos har xil narsalarni yozib tashlamang");
 
 var paragraph = document.createElement("h2");
 
-paragraph.innerHTML=`Your name is : ${firstName} <br>
-                       Your last name is : ${lastName}<br>
-                       Your birthdate : ${birthDate}<br>
-                       Your Email : ${email}<br>
-                       Your address : ${address}<br>
-                       Your Number : ${userNum}<br>
-                       Your workplace : ${workPlace}<br>
-                       Your profession : ${profession}<br>
-                       Your hobby : ${hobby}<br>
-                       Your avtomobile : ${car}<br>
-                       `;
+    paragraph.innerHTML= ` Your name is : ${firstName} <br>
+                           Your last name is : ${lastName} <br>
+                           Your birthdate : ${birthDate} <br>
+                           Your Email : ${email} <br>
+                           Your address : ${address} <br>
+                           Your Number : ${userNum} <br>
+                           Your workplace : ${workPlace} <br>
+                           Your profession : ${profession} <br>
+                           Your hobby : ${hobby} <br>
+                           Your avtomobile : ${car} <br>
+                        `;
 
 document.body.style.backgroundColor="black";
 document.body.appendChild(paragraph).style.backgroundColor="brown";
