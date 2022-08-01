@@ -10,7 +10,7 @@ var info = alert("Iltimos har xil narsalarni yozib tashlamang");
     profession = prompt ("Foydalanuvchining kasbi").trim(),
     hobby = prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
     car = prompt("Foydalanuvchining  moshinasi").trim(),
-    text = alert ("Har xil narsalarni yozib tashlaganiz uchun malumotiz kiritilmadi");
+    text = alert ("Ma'lumotlaringiz uchun rahmat");
 
 
 
