@@ -10,8 +10,9 @@ var firstName = prompt("Ismingizni kiriting...").trim(),
     workPlace = prompt ("Foydalanuvchining ish joyi").trim(),
     profession = prompt ("Foydalanuvchining kasbi").trim(),
     hobby = prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
-    car = prompt("Foydalanuvchining  moshinasi").trim(),
-    text = alert ("Ma'lumotlaringiz uchun rahmat");
+    car = prompt("Foydalanuvchining  moshinasi").trim();
+    
+    alert ("Ma'lumotlaringiz uchun rahmat");
 
 
 
