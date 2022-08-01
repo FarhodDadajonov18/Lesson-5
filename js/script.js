@@ -1,16 +1,16 @@
 
 var info = alert("Iltimos har xil narsalarni yozib tashlamang");
-firstName = prompt("Ismingizni kiriting...").trim(),
-lastName = prompt ("Familyangizni kiriting").trim(),
-birthDate = prompt ("Tug'ilgan kuningizni kiriting").trim(),
-email= prompt (" Foydalanuvchining email pochtasi").trim(),
-address= prompt ( "Foydalanuvchining manzili").trim(),
-userNum = prompt("Foydalanuvchining nomeri").trim(),
-workPlace = prompt ("Foydalanuvchining ish joyi").trim(),
-profession =prompt ("Foydalanuvchining kasbi").trim(),
-hobby =prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
-car = prompt("Foydalanuvchining  moshinasi").trim(),
-text = alert ("Har xil narsalarni yozib tashlaganiz uchun malumotiz kiritilmadi");
+    firstName = prompt("Ismingizni kiriting...").trim(),
+    lastName = prompt ("Familyangizni kiriting").trim(),
+    birthDate = prompt ("Tug'ilgan kuningizni kiriting").trim(),
+    email= prompt (" Foydalanuvchining email pochtasi").trim(),
+    address= prompt ( "Foydalanuvchining manzili").trim(),
+    userNum = prompt("Foydalanuvchining nomeri").trim(),
+    workPlace = prompt ("Foydalanuvchining ish joyi").trim(),
+    profession =prompt ("Foydalanuvchining kasbi").trim(),
+    hobby =prompt ("Foydalanuvchining sevimli mashg'uloti").trim(),
+    car = prompt("Foydalanuvchining  moshinasi").trim(),
+    text = alert ("Har xil narsalarni yozib tashlaganiz uchun malumotiz kiritilmadi");
 
 
 
