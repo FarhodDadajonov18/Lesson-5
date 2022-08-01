@@ -18,15 +18,15 @@ text = alert ("Baribir yozib tashlaganiz uchun rahmat");
 
 var paragraph = document.createElement("h2");
 
-paragraph.textContent=`Your name is : ${firstName},
-                       Your last name is : ${lastName},
-                       Your birthdate : ${birthDate},
-                       Your Email : ${email},
-                       Your address : ${address},
-                       Your Number : ${userNum},
-                       Your workplace : ${workPlace},
-                       Your profession : ${profession},
-                       Your hobby : ${hobby},
+paragraph.innerHTML=`Your name is : ${firstName} <br>
+                       Your last name is : ${lastName}<br>
+                       Your birthdate : ${birthDate}<br>
+                       Your Email : ${email}<br>
+                       Your address : ${address}<br>
+                       Your Number : ${userNum}<br>
+                       Your workplace : ${workPlace}<br>
+                       Your profession : ${profession}<br>
+                       Your hobby : ${hobby}<br>
                        Your avtomobile : ${car}
                        `;
 
